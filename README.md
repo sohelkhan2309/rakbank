@@ -1,4 +1,4 @@
-# rakbank
+# RAKBANK
 Optimum Solution, Rak Bank machine test:
 
 Clone the GIT Repo & run npm install
