@@ -28,7 +28,7 @@ iOS:
 <string>Your app needs access to your location</string>
 
 Note: 
-1. Created seperate module for Android and iOS for blocking screenshot
+1. Created separate module for Android and iOS for blocking screenshot
 2. Native module name : ScreenshotBlocker
 3. I have displayed other requested details on the same screen below the Activate/Activated button coz I'm unable to find the mock APi for the same
 4. If API available just need to call that API with fetch or Axios to push data to server and that API will return repons Success or Fail.
