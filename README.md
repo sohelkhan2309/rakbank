@@ -8,18 +8,14 @@ then install below NPM:
 1. OS, Device Name and MAC Address
 npm install react-native-device-info
 
-2. IMEI(Android)- IMEI access is not allowed on iOS
-npm install react-native-imei
-
-3. Location
+2. Location
 npm install react-native-geolocation-service
 
-4. Public IP Address
+3. Public IP Address
 npm install axios
 
-5. Permission
+4. Permission
 npm install react-native-permissions
-
 
 Add Permissions for Android and iOS:
 Android:
